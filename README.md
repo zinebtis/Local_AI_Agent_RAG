@@ -89,4 +89,3 @@ Search reviews and export results to JSON format.
 
 ## License
 
-This project is part of the GenAI BootCamp Projects.
